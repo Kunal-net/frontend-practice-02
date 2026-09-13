@@ -88,3 +88,11 @@ The Vite dev server will run at `http://localhost:5173`.
 ## License
 
 Private / Experimental workspace.
+
+
+
+
+Used no skills at all 
+prompting - ChatGPT
+design - stitch 
+agents - antigravity 
